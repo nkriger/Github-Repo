@@ -21,6 +21,6 @@ public class Movement : MonoBehaviour
 
     void camera()
     {
-        GetKey
+        //rotate camera
     }
 }
